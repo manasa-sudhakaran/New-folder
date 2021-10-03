@@ -1,0 +1,14 @@
+label {
+    font-weight: 500;
+  }
+  
+  .error-message {
+    font-size: 20px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+    font-family: "Roboto";
+    text-align: center;
+    padding-top: 10px;
+    line-height: 16px;
+    color: #ff0b37;
+  }

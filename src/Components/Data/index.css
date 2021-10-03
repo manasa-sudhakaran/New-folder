@@ -1,0 +1,70 @@
+.user-item-container {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 30px;
+    color: black;
+  
+    border-radius: 20px;
+    background-image: linear-gradient(
+      150deg,
+      rgba(0 0 0 / 40%) 0%,
+      rgba(69 69 69 / 10%) 100%
+    );
+  
+    box-shadow: 0 1px 24px -1px rgba(0 0 0 / 10%);
+    transition: all 1s ease;
+  }
+  
+  .user-item-container:hover {
+    
+    padding: 20px;
+  }
+  
+  .user-item-ids-container {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #21e6cb;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .user-item-user-id {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 16px;
+  }
+  .user-item-user-id {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 16px;
+  }
+  
+  .user-item-title {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .user-item-body {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    font-family: "Roboto";
+    font-size: 18px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  
+  .sub-header {
+    color: #12d7e6;
+    font-size: 15px;
+    font-weight: 600;
+  }

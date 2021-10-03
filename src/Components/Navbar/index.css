@@ -1,0 +1,15 @@
+.currency-logo {
+    width: 190px;
+    height: 60px;
+    display:flex;
+    align-items: left;
+  }
+  
+  .logout,
+  .data {
+    cursor: pointer;
+  }
+  ul {
+      list-style-type: none;
+  }
+  

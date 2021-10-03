@@ -1,0 +1,27 @@
+.not-found-img {
+    width: 400px;
+    border-radius: 50%;
+  }
+  
+  .not-found-route-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: space-around;
+    background-image: url("https://betanews.com/wp-content/uploads/2016/01/Error-404-dark-clouds-warning-page-not-found-e1452851329452.jpg");
+    background-size: cover;
+    height: 100vh;
+  }
+  
+  .not-found-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 32px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .not-found-heading {
+      font-size: 64px;
+    }
+  }
+  
